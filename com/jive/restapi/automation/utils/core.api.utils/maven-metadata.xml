@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jive.restapi.automation.utils</groupId>
+  <artifactId>core.api.utils</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190226130049</lastUpdated>
+  </versioning>
+</metadata>
