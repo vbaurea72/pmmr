@@ -4,8 +4,8 @@
   <artifactId>core.api.utils</artifactId>
   <versioning>
     <versions>
-      <version>0.0.2-SNAPSHOT</version>
+      <version>0.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190226130049</lastUpdated>
+    <lastUpdated>20190227112336</lastUpdated>
   </versioning>
 </metadata>

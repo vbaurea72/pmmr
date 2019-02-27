@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.jive.restapi.automation.utils</groupId>
   <artifactId>core.api.utils</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190226.130049</timestamp>
+      <timestamp>20190227.112336</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190226130049</lastUpdated>
+    <lastUpdated>20190227112336</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.2-20190226.130049-1</value>
-        <updated>20190226130049</updated>
+        <value>0.0.3-20190227.112336-1</value>
+        <updated>20190227112336</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.2-20190226.130049-1</value>
-        <updated>20190226130049</updated>
+        <value>0.0.3-20190227.112336-1</value>
+        <updated>20190227112336</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
